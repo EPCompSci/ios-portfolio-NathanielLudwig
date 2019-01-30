@@ -1,5 +1,6 @@
 # iOS-Portfolio
 2018-2019 Portfolio
+
 About me project - My app In this project I learned how to create buttons and create layouts in the storyboard editor. At the time this was a big accomplishment. [about me link](https://github.com/NathanielLudwig/myfirstapp)
 
 First Project - guess 100: For my first ios project I decided to learn swift by recreating a simple game I made last year in java. I learned how to create a app layout and UI in xCode and connect the screen elements to the code. Being able to connect visual elements to code was a feature that was new to me and was not in java. The app allows the user to guess a number from 0 to 100 using a picker wheel. The game also tracks score and removes numbers that have been eliminated.
