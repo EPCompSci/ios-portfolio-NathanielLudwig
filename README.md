@@ -1,6 +1,6 @@
-# iOS-Portfolio
+# iOS Portfolio by Nathaniel Ludwig
 
-# 2018-2019 
+## 2018-2019 
 
 About me project - My app In this project I learned how to create buttons and create layouts in the storyboard editor. At the time this was a big accomplishment. [about me link](https://github.com/NathanielLudwig/myfirstapp)
 
@@ -17,7 +17,7 @@ Dungeongame / Battledudes: Dungeongame is a role playing game that was supposed 
 Gravity Dude / coolgame: Gravity Dude is a physics based game where you have to move your character through the level only by rotating its arms and legs. It requires players to dodge objects. You are able to reverse the gravity and go in slow motion mode. The game also auto saves your progress if you leave the app and come back. The first challenge I faced getting the sprites arms and legs connected to its torso. I learned how to use SKJoints to solve this. Next I had to be able to rotate the arms and legs to point to the touch position. This issue got complicated quick with points being in different coordinate systems. The game also faced performance issues with the ammount of nodes on the screen at once. I was able to fix this by making the walls 3 blocks thick of nodes instead of all the walls having nodes.
 [gravity dude link](https://github.com/NathanielLudwig/Gravity-Dude)
 
-# 2020
+## 2020
 
 spaceshooter: In Space Shooter, I combined all my knowledge of SpriteKit from last year to make a complete game. Players must shoot enemy spaceships while under fire. Health packs spawn around the map and I am planning on implementing other power ups to make the gameplay more interesting. More enemy ships spawn over time, making the game more difficult. Movement in this game is different than other games that I have created in the past. I decided to add a joystick to control movement because it is easy to recognize for new players. I used the built in SpriteKit physics engine so that I can detect collision between objects in the world and bullet hits. I also added some minor features to make the game feel more polished such as custom buttons. Finally, I added support for Game Center so that players can compare their score with others on a leaderboard. [space shooter link](https://github.com/NathanielLudwig/spaceshooter)
 
